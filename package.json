@@ -1,0 +1,23 @@
+{
+  "name": "test_react",
+  "version": "1.0.0",
+  "description": "test react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tair111/Test_React.git"
+  },
+  "keywords": [
+    "test",
+    "study"
+  ],
+  "author": "Aleks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tair111/Test_React/issues"
+  },
+  "homepage": "https://github.com/Tair111/Test_React#readme"
+}
